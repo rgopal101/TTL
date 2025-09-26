@@ -1,0 +1,8 @@
+D:\india.ttlholidays.com\publish\india.ttlholidays.com.exe
+D:\india.ttlholidays.com\publish\Web.config
+D:\india.ttlholidays.com\publish\appsettings.Development.json
+D:\india.ttlholidays.com\publish\appsettings.json
+D:\india.ttlholidays.com\publish\india.ttlholidays.com.dll
+D:\india.ttlholidays.com\publish\india.ttlholidays.com.deps.json
+D:\india.ttlholidays.com\publish\india.ttlholidays.com.runtimeconfig.json
+D:\india.ttlholidays.com\publish\india.ttlholidays.com.pdb
