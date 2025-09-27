@@ -8,24 +8,32 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rgopa\\.nuget\\packages\\": {}
+    "C:\\Users\\rgopa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\india.ttlholidays.com\\india.ttlholidays.com.csproj",
+      "projectUniqueName": "E:\\india.ttlholidays.com\\india.ttlholidays.com.csproj",
       "projectName": "india.ttlholidays.com",
-      "projectPath": "D:\\india.ttlholidays.com\\india.ttlholidays.com.csproj",
+      "projectPath": "E:\\india.ttlholidays.com\\india.ttlholidays.com.csproj",
       "packagesPath": "C:\\Users\\rgopa\\.nuget\\packages\\",
-      "outputPath": "D:\\india.ttlholidays.com\\obj\\",
+      "outputPath": "E:\\india.ttlholidays.com\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\rgopa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\rgopa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -68,7 +76,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
