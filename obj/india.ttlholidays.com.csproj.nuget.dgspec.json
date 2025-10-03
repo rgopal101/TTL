@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\india.ttlholidays.com\\india.ttlholidays.com.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "D:\\india.ttlholidays.com\\india.ttlholidays.com.csproj",
         "packagesPath": "C:\\Users\\rgopa\\.nuget\\packages\\",
         "outputPath": "D:\\india.ttlholidays.com\\obj\\",
+=======
+    "E:\\india.ttlholidays.com\\TTL\\india.ttlholidays.com.csproj": {}
+  },
+  "projects": {
+    "E:\\india.ttlholidays.com\\TTL\\india.ttlholidays.com.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\india.ttlholidays.com\\TTL\\india.ttlholidays.com.csproj",
+        "projectName": "india.ttlholidays.com",
+        "projectPath": "E:\\india.ttlholidays.com\\TTL\\india.ttlholidays.com.csproj",
+        "packagesPath": "C:\\Users\\rgopa\\.nuget\\packages\\",
+        "outputPath": "E:\\india.ttlholidays.com\\TTL\\obj\\",
+>>>>>>> 928a8973b6c5e4803a13f42a52bffe086f9057be
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rgopa\\AppData\\Roaming\\NuGet\\NuGet.Config"

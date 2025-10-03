@@ -20,8 +20,5 @@ app.UseAuthorization();
 
 app.MapStaticAssets();
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}")
-    .WithStaticAssets();
-app.Run();
+app.MapControllerRoute(   name: "default",   pattern: "{controller=Home}/{action=Index}/{id?}").WithStaticAssets();app.Run();
+app.MapControllerRoute(   name: "package",   pattern: "{controller=Package}/{action=Index}/{id?}").WithStaticAssets();app.Run();

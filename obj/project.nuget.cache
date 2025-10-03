@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "wbUqSyOtK/4=",
   "success": true,
   "projectFilePath": "D:\\india.ttlholidays.com\\india.ttlholidays.com.csproj",
+=======
+  "dgSpecHash": "nfUEkAULyCM=",
+  "success": true,
+  "projectFilePath": "E:\\india.ttlholidays.com\\TTL\\india.ttlholidays.com.csproj",
+>>>>>>> 928a8973b6c5e4803a13f42a52bffe086f9057be
   "expectedPackageFiles": [],
   "logs": []
 }
