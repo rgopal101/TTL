@@ -1,0 +1,14 @@
+E:\india.ttlholidays.com\publish\india.ttlholidays.com.exe
+E:\india.ttlholidays.com\publish\publish\Web.config
+E:\india.ttlholidays.com\publish\Web.config
+E:\india.ttlholidays.com\publish\appsettings.Development.json
+E:\india.ttlholidays.com\publish\appsettings.json
+E:\india.ttlholidays.com\publish\publish\appsettings.Development.json
+E:\india.ttlholidays.com\publish\publish\appsettings.json
+E:\india.ttlholidays.com\publish\publish\india.ttlholidays.com.deps.json
+E:\india.ttlholidays.com\publish\publish\india.ttlholidays.com.runtimeconfig.json
+E:\india.ttlholidays.com\publish\publish\india.ttlholidays.com.staticwebassets.endpoints.json
+E:\india.ttlholidays.com\publish\india.ttlholidays.com.dll
+E:\india.ttlholidays.com\publish\india.ttlholidays.com.deps.json
+E:\india.ttlholidays.com\publish\india.ttlholidays.com.runtimeconfig.json
+E:\india.ttlholidays.com\publish\india.ttlholidays.com.pdb

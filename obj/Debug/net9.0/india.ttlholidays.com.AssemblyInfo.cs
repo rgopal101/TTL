@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("india.ttlholidays.com")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df446f9ffcb1b109579bdc5aae52177f22792dfa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41140707b8bc98d87878fe77e6b94080c1adec87")]
 [assembly: System.Reflection.AssemblyProductAttribute("india.ttlholidays.com")]
 [assembly: System.Reflection.AssemblyTitleAttribute("india.ttlholidays.com")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9640,7 +9640,7 @@ header.style-3.two .main-menu > ul > li.active > a i {
 .home1-offer-banner-section {
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 195px 0;
+  padding: 50px 0;
   background-attachment: fixed;
 }
 @media (min-width: 1400px) and (max-width: 1599px) {
